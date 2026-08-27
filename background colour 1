@@ -1,0 +1,10 @@
+<!Doctype html >
+<html>
+<head>
+  <title> inlinecss </title>
+<Body>
+<Body Style = "Background-colour:lightBlue;">
+  <H1 Style = "colour : Red;">
+     Indine CSS</H1>
+<P STYLE = "Colour : Green;">
+  This is the <b> Study of Indine CSS</B><P></Body></html>

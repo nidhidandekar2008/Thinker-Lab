@@ -1,14 +1,20 @@
-<!Doctype html >
+<!doctype>
 <html>
 <head>
-  <title> internalcss </title>
+  <title> internal css </title/>
 <Style>
-<Body{Background-colour:lightyellow;>
-  <H1 Style{colour : Red;}
- P= {Colour : Black;}
+Body{Background-color:lightyellow;}
+H1{color:Red;}
+P{color:black}
 </style>
 </head>
+<body>
+<h1> Internal css</h1>
+<p> This is the <b> study of internal css </b></p>
 </body>
-  <h1> Internal css</h1>
-<p> This is the <b>study of </P
-  This is the <b> Study of Internalcss</b></p>  
+<body>
+<h1 style ="color:blue">
+internal css in blue </h1>
+<p> this is the demo text </p>
+</body>
+</html>
